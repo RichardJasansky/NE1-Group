@@ -8,7 +8,7 @@ The output folder is synced with GitHub and can contain plots, etc.
 The structure of the code files is as follows:
 - 01_data_preparation.ipynb preprocesses the raw data from https://zenodo.org/record/7323875 into the needed format.
 - 02_network_calculations.ipynb contains several calculations and plots created for the case study.
-- 03_map_visualizations.ipynb contains interactive map visualizations of the preprocessed dataset.
+- 03_*_map.ipynb contains map visualizations of the preprocessed dataset for Germany and Europe.
 
 
 Authors: Jessica Brown, Raul Ibarra, Richard Jasansky
